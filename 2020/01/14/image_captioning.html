@@ -3,17 +3,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="shortcut icon" type="image/x-icon" href="/blog/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>blog | A digital brain dump</title>
+<title>Sequence Models Notes | blog</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="blog" />
+<meta property="og:title" content="Sequence Models Notes" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="A digital brain dump" />
-<meta property="og:description" content="A digital brain dump" />
-<link rel="canonical" href="https://mudit1729.github.io/blog/404.html" />
-<meta property="og:url" content="https://mudit1729.github.io/blog/404.html" />
+<meta name="description" content="Vanishing gradients with RNNs" />
+<meta property="og:description" content="Vanishing gradients with RNNs" />
+<link rel="canonical" href="https://mudit1729.github.io/blog/2020/01/14/image_captioning.html" />
+<meta property="og:url" content="https://mudit1729.github.io/blog/2020/01/14/image_captioning.html" />
 <meta property="og:site_name" content="blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-01-14T00:00:00-06:00" />
 <script type="application/ld+json">
-{"description":"A digital brain dump","@type":"WebPage","headline":"blog","url":"https://mudit1729.github.io/blog/404.html","@context":"https://schema.org"}</script>
+{"description":"Vanishing gradients with RNNs","@type":"BlogPosting","headline":"Sequence Models Notes","dateModified":"2020-01-14T00:00:00-06:00","datePublished":"2020-01-14T00:00:00-06:00","url":"https://mudit1729.github.io/blog/2020/01/14/image_captioning.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://mudit1729.github.io/blog/2020/01/14/image_captioning.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -69,26 +71,35 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<div class="container">
-  <h1>404</h1>
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Sequence Models Notes</h1><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-01-14T00:00:00-06:00" itemprop="datePublished">
+        Jan 14, 2020
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      1 min read
+    
+</span></p>
 
+    
+
+    </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h5 id="vanishing-gradients-with-rnns">Vanishing gradients with RNNs</h5>
+
+<ul>
+  <li>If the neural network is a deep neural network then the gradient will have difficult time travelling back to the initial layers.</li>
+  <li>Exploding gradients are easier to spot -&gt; numerical overflow. Solution : gradient clipping</li>
+  <li>Vanishing gradient is much harder to solve.</li>
+  <li>GRU : Gated Recurrent Unit : The addition in  GRU in comparison with RNNs is that GRU has a memory cell and employs the cocept of gates.</li>
+</ul>
+
+  </div><a class="u-url" href="/blog/2020/01/14/image_captioning.html" hidden></a>
+</article>
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/blog/"></data>
