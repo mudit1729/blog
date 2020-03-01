@@ -1,4 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://mudit1729.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mudit1729.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-03-01T09:20:13-06:00</updated><id>https://mudit1729.github.io/blog/feed.xml</id><title type="html">blog</title><subtitle>A digital brain dump</subtitle><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://mudit1729.github.io/blog/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://mudit1729.github.io/blog/jupyter/2020/02/20/test</id><content type="html" xml:base="https://mudit1729.github.io/blog/jupyter/2020/02/20/test.html">&lt;!--
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://mudit1729.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mudit1729.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-03-01T09:56:10-06:00</updated><id>https://mudit1729.github.io/blog/feed.xml</id><title type="html">blog</title><subtitle>A digital brain dump</subtitle><entry><title type="html">Cv</title><link href="https://mudit1729.github.io/blog/2020/03/01/CV.html" rel="alternate" type="text/html" title="Cv" /><published>2020-03-01T00:00:00-06:00</published><updated>2020-03-01T00:00:00-06:00</updated><id>https://mudit1729.github.io/blog/2020/03/01/CV</id><content type="html" xml:base="https://mudit1729.github.io/blog/2020/03/01/CV.html">&lt;p&gt;&lt;strong&gt;MUDIT JAIN&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;San Diego, CA.&lt;/td&gt;
+      &lt;td&gt;+1 858 952 3792&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;mailto:mujain@ucsd.edu&quot;&gt;&lt;span class=&quot;underline&quot;&gt;mujain@ucsd.edu&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.linkedin.com/in/muditj1729/&quot;&gt;&lt;span class=&quot;underline&quot;&gt;https://www.linkedin.com/in/muditj1729/&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;TECHNICAL SKILLS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, C, C++, MATLAB, Bash&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Technologies/Frameworks:&lt;/strong&gt; PyTorch, NumPy, Pandas, Scikit-learn, Git, OpenCV, Perforce, LATEX, CUDA.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Jupyter, Google Cloud Platform / Colab, PyCharm, Vim, Visual Studio, Perforce, Linux, Jira, Jama, MS Office&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;EDUCATION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;University of California, San Diego&lt;/strong&gt; Sept 2019 - Mar 2021&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Master of Science in E.C.E specialization in Machine Learning and Data Science&lt;/td&gt;
+      &lt;td&gt;GPA: 3.66/4&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Course Work: Deep Learning for Image Processing, Computer Vision, Statistical Learning&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Birla Institute of Technology and Science (BITS), India&lt;/strong&gt; Aug 2012 - July 2016&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B.E. Hons in Electronics and Communication Engineering&lt;/td&gt;
+      &lt;td&gt;GPA: 8.1/10&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;WORK EXPERIENCE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UCSD,&lt;/strong&gt; Graduate Researcher and Teaching Assistant Sept 2019 - Dec 2019&lt;/p&gt;
+
+&lt;p&gt;* Graduate Researcher in Drone Lab, UCSD :&lt;/p&gt;
+
+&lt;p&gt;* Implemented custom stereo algorithms ( 16 path Semi Global Matching algorithm ) with hardware acceleration ( CUDA ).&lt;/p&gt;
+
+&lt;p&gt;* Currently looking at real-time segmentation and silhouette based reconstruction from multi-view pts (multiple UAV scenario).&lt;/p&gt;
+
+&lt;p&gt;* Graduate Teaching Assistant, Course: ECE 140A ( Art of Product Engineering ) :&lt;/p&gt;
+
+&lt;p&gt;* This course integrates theory with practice. Our aim is to teach end-to-end software development, work with hardware and&lt;/p&gt;
+
+&lt;p&gt;sensors, and build a real product for real potential customers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NVIDIA,&lt;/strong&gt; Automotive System Software Engineer June 2016 - June 2019&lt;/p&gt;
+
+&lt;p&gt;* Designed, implemented and tested the software pipeline of I2C Virtualization for ARM-based NVIDIA SoCs. Also did the&lt;/p&gt;
+
+&lt;p&gt;bring-up of the components on the FPGA and then on the SoC.&lt;/p&gt;
+
+&lt;p&gt;* Optimized the bootloader and reduced boot-time by 50%. Implemented an O.S agnostic GPCDMA library. Also added HS400&lt;/p&gt;
+
+&lt;p&gt;support for SDMMC. Developed production tools that create OS firmware and boot the target in various modes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Google Summer of Code, Mentoring Organisation: RTEMS,&lt;/strong&gt; Developer March 2016 - June 2016&lt;/p&gt;
+
+&lt;p&gt;* Ported FreeBSD SDMMC driver for RTEMS. Added DMA library for Raspberry Pi BSP, interfaced it with I2C &amp;amp; SPI drivers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ACADEMIC PROJECTS - Machine Learning&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Domain Adaptation for Semantic Segmentation&lt;/strong&gt; Sept 2019 – Dec 2019&lt;/p&gt;
+
+&lt;p&gt;* Trained a state-of-the-art semantic segmentation model [ OCNet ] on Cityscapes dataset&lt;/p&gt;
+
+&lt;p&gt;* To overcome the limited labeled dataset problem, we used domain adaptation to generate real-world like data from gaming&lt;/p&gt;
+
+&lt;p&gt;data, for that we trained a CycleGAN network to convert GTA data into real-world like data&lt;/p&gt;
+
+&lt;p&gt;* Compared the results from OCNet trained only on Cityscapes dataset( 5000 images ) versus that of the network trained on&lt;/p&gt;
+
+&lt;p&gt;Cityscapes plus 5000 adapted GTA images. We observe that the model perf. increases a bit when trained on a larger dataset.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Image Denoising using Deep CNNs&lt;/strong&gt; Sept 2019 – Dec 2019&lt;/p&gt;
+
+&lt;p&gt;* Implemented DnCNN, UDnCNN( U-Net based CNN ) and DUDnCNN ( U-Net with dilated convolutions ) and compared&lt;/p&gt;
+
+&lt;p&gt;the validation performance of the nets for the problem of image denoising. Achieved accuracy of 99.6%, 99.7%, and 99.85%&lt;/p&gt;
+
+&lt;p&gt;respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Segmentation of Images using Bayes Decision Rule&lt;/strong&gt; Sept 2019 – Dec 2019&lt;/p&gt;
+
+&lt;p&gt;* Implemented and applied the Expectation-Maximization algorithm to GMM’s in order to segment images into foreground and&lt;/p&gt;
+
+&lt;p&gt;background. Feature extraction was done using a Discrete Cosine Transform.&lt;/p&gt;
+
+&lt;p&gt;* Compared the accuracy of such a model to Naive Bayes classification and experimented with different hyper-parameters such&lt;/p&gt;
+
+&lt;p&gt;as the number of clusters to further segmentation accuracy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ACADEMIC PROJECTS - Computer Vision&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sparse Stereo Matching &amp;amp; Naive Cam Scanner&lt;/strong&gt; Sept 2019 – Dec 2019&lt;/p&gt;
+
+&lt;p&gt;* Implemented the Shi-Tomasi Corner detector to identify key features of an image. Concepts of epipolar geometry were used&lt;/p&gt;
+
+&lt;p&gt;to match features in a stereo pair of images based on a similarity score. Also implemented a cam scanner by using the&lt;/p&gt;
+
+&lt;p&gt;techniques of inverse homography to automatically warp a scanned image into one of the known dimensions&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3-D Reconstruction of Surfaces using Photometric Stereo and Surface Rendering&lt;/strong&gt; Sept 2019 – Dec 2019&lt;/p&gt;
+
+&lt;p&gt;* Reconstructed 3-D surfaces under the assumption of known light sources and Lambertian material. Applied specularity&lt;/p&gt;
+
+&lt;p&gt;removal technique described by Mallick et al in order to account for Lambertian deviations. Approximated local illumination of&lt;/p&gt;
+
+&lt;p&gt;scene objects using the Phong Model and Lambertian Model.&lt;/p&gt;</content><author><name></name></author><summary type="html">MUDIT JAIN</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://mudit1729.github.io/blog/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://mudit1729.github.io/blog/jupyter/2020/02/20/test</id><content type="html" xml:base="https://mudit1729.github.io/blog/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
